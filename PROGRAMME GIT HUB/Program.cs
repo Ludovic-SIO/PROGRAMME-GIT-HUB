@@ -10,7 +10,7 @@ namespace PROGRAMME_GIT_HUB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Quel est votre pseudo ?");
+            Console.WriteLine("Quel est votre pseudo sur league of legends ?");
             string input = Console.ReadLine();
             Console.WriteLine("Votre pseudo est {0}", input);
             Console.ReadKey();
